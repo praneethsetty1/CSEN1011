@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 int main(){
 	int n,n1,r,s=0;
 	printf("enter the three digit number");
@@ -14,6 +14,6 @@ int main(){
 		if(n1==s)
 		printf("The given number is armstrong number");
 		else
-		printf("The given numbeer is not armstrong number");
+		printf("The given number is not armstrong number");
 			}
 }

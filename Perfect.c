@@ -4,7 +4,7 @@ int main()
 {   
  int i, Num, Sum = 0 ;   
   
- printf("\n Please Enter any number \n") ;   
+ printf("Please Enter any number \n") ;   
  scanf("%d", &Num) ;   
  
  for(i = 1 ; i < Num ; i++)   
@@ -14,7 +14,7 @@ int main()
   }    
 
  if (Sum == Num)   
-    printf("\n %d is a Perfect Num", Num) ;   
+    printf("\n"%d is a Perfect Num", Num) ;   
  else   
     printf("\n%d is not the Perfect Num", Num) ;   
 

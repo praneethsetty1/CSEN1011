@@ -1,5 +1,9 @@
 /*algorithm
-Step 1-
+step1. start
+step2. get nth term of fibo series from user
+step3. get fibonacci series but with each loop, add value to a variable
+step4. print value in variable
+step5. stop
 
 
 

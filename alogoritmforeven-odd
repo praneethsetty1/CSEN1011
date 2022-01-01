@@ -1,5 +1,0 @@
-algoritm to find whether a number iseven or odd
-step1: start
-step2:Accept a number
-step3:divide with number 2, if the reminder is 0 it is even else it is odd
-step4:end

@@ -7,3 +7,23 @@
 2.Arrange files in github properly.
 
 3.update the learning material
+
+## Module 1
+
+[Hello World](helloworld.c)
+
+[Average Marks](marks.c)
+
+[Simple Interest}(simpleinterest.c)
+
+[Prime orComposite](primeorcomposite.c)
+
+## Module 2
+
+[Fibonacci series](Fibonacciseries.c)
+
+[Perfect Numbers](Perfect.c)
+
+[Arm strong
+
+

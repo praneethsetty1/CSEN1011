@@ -18,12 +18,3 @@
 
 [Prime orComposite](primeorcomposite.c)
 
-## Module 2
-
-[Fibonacci series](Fibonacciseries.c)
-
-[Perfect Numbers](Perfect.c)
-
-[Arm strong
-
-

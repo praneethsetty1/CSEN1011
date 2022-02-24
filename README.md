@@ -26,4 +26,4 @@
 
 [Perfect Numbers](Perfect.c)
 
-[Arm strong
+[Arm strong](armstrong.c)

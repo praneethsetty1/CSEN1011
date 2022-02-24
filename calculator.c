@@ -27,7 +27,7 @@ int main() {
               break;
     case '%': printf("%d", a % b);
               break;
-    default: printf("Inalid operator");
+    default: printf("Invalid operator");
   }
 
   return 0;

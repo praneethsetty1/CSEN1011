@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include<stdio.h>
 #include<string.h>
 int main(){
@@ -33,5 +34,5 @@ return 0;
 
 }
 int i=n[0].amount+n[1].amount;
-printf("%d",i);
+printf("Total amount of two customers=%d",i);
 }

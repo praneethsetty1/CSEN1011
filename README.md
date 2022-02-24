@@ -30,4 +30,4 @@
 
 ## Semi-end
 
-[semi-end-2 program](
+[semi-end-2 program](semiend-2program.c)

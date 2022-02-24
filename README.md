@@ -16,7 +16,7 @@
 
 [Average Marks](marks.c)
 
-[Simple Interest}(simpleinterest.c)
+[Simple Interest](simpleinterest.c)
 
 [Prime orComposite](primeorcomposite.c)
 
